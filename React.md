@@ -14,6 +14,9 @@ Name | URL | FREE/PAID | Category | Last Updated On
 ## Redux
 Name | URL | FREE/PAID | Category | Last Updated On
 -----|-----|-----------|----------|----------------
+Getting Started with Redux | [Link](https://egghead.io/courses/getting-started-with-redux) | FREE | Video | *NA*
+Building React Applications with Idiomatic Redux | [Link](https://egghead.io/courses/building-react-applications-with-idiomatic-redux) | FREE | Video | *NA*
+
 
 
 ## React Styling
