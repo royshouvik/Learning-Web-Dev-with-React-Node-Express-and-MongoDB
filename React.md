@@ -7,10 +7,16 @@ React.js Fundamentals |[Link](http://courses.reactjsprogram.com/p/reactjsfundame
 
 
 ## React Router
+Name | URL | FREE/PAID | Category | Last Updated On
+-----|-----|-----------|----------|----------------
 
 
 ## Redux
+Name | URL | FREE/PAID | Category | Last Updated On
+-----|-----|-----------|----------|----------------
 
 
 ## React Styling
+Name | URL | FREE/PAID | Category | Last Updated On
+-----|-----|-----------|----------|----------------
 
