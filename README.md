@@ -3,7 +3,11 @@ Curated repository of good content found on the web for learning Web Development
 
 
 [JavaScript](/JavaScript.md)
+
 [React](/React.md)
+
 [Node](/Node.md)
+
 [MongoDB](/Mongo.md)
+
 [Commmon](/Commmon.md)
