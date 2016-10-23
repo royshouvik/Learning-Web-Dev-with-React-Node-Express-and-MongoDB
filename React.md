@@ -30,3 +30,4 @@ Styling React Components | [Link](https://app.pluralsight.com/library/courses/re
 Name | URL | FREE/PAID | Category | Last Updated On
 -----|-----|-----------|----------|----------------
 Building Applications with React and Redux in ES6 | [Link](https://app.pluralsight.com/library/courses/react-redux-react-router-es6) | PAID | Video | 21-May-2016
+Complete Intro to React | [Link](http://btholt.github.io/complete-intro-to-react/) | FREE | Article | *NA*
